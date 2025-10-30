@@ -1,0 +1,6 @@
+@DemoCoreWebApi_HostAddress = http://localhost:5267
+
+GET {{DemoCoreWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
